@@ -1,5 +1,5 @@
 import string
-import sys
+import sys6
 
 class ClassEx():
     firstName = ""
